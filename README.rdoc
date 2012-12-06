@@ -1,3 +1,3 @@
 == Code Status
 
- [![Build Status](https://secure.travis-ci.org/scaladev/thunder.png)](http://travis-ci.org/scaladev/thunder)
+{<img src="https://travis-ci.org/scaladev/thunder.png" />}[https://travis-ci.org/scaladev/thunder]
