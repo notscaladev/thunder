@@ -1,0 +1,3 @@
+== Code Status
+
+* {<img src="https://secure.travis-ci.org/thunder/thunder.png"/>}[http://travis-ci.org/thunder/thunder]
