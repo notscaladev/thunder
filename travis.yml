@@ -1,8 +1,12 @@
 language: java
-notifications:
-  email:
-    - okolitiy.viacheslav@gmail.com
-    
+
 branches:
   only:
     - master
+    
+ jdk:
+  - oraclejdk7
+  - openjdk6
+  - oraclejdk6
+ 
+ 
