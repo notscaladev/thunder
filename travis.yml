@@ -2,3 +2,7 @@ language: java
 notifications:
   email:
     - okolitiy.viacheslav@gmail.com
+    
+branches:
+  only:
+    - master
